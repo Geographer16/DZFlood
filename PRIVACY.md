@@ -1,6 +1,6 @@
-# Privacy Policy — DZFlood Toolbox
+# Privacy Policy — DZFlood Tool
 
-DZFlood Toolbox collects certain system and usage information to improve performance and guide future optimizations. By downloading and using this toolbox, you agree to the data collection described below.
+DZFlood Tool collects certain system and usage information to improve performance and guide future optimizations. By downloading and using this toolbox, you agree to the data collection described below.
 
 ---
 
